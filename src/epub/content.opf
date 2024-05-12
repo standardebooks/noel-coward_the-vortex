@@ -41,14 +41,15 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A son’s home-coming, along with his new fiancée, leads to trouble with his vain mother.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When Nicky arrives back from Paris to his London family home with new fiancée Bunty in tow, relations with his friends, family, and particularly his mother Florence seem as good as they ever were. Cracks, however, soon start appearing: Nicky has a new drug habit and there are other hinted-at transgressions, Bunty is uncomfortable in her new role with Nicky’s friends and family, and the vain façade Florence is putting up against her increasing age and dissatisfaction with life is starting to fail.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Vortex&lt;/i&gt; is an early play of &lt;a href="https://standardebooks.org/ebooks/noel-coward"&gt;Noël Coward’s&lt;/a&gt;, and was the first to reach large acclaim. Given the themes of drug abuse, the censors in the UK at the time nearly chose to block its staging, and even after it was passed Coward (as writer, director and star) had trouble finding a venue. Eventually it was picked up by a small venue in north London, but after critical success and popular interest it moved to London’s West End.&lt;/p&gt;
+			&lt;p&gt;The play has been adapted for television, film and radio many times over the years, and is still a popular choice for theaters today. While the drug abuse and coded homosexuality has less shock value than when first performed, Nicky and Florence’s increasingly obvious difficulties in living outside the boxes created for them by society is a theme that stands the test of time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67988</dc:source>
 		<dc:source>https://archive.org/details/vortexplayinthre0000cowa</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Vortex</meta>
