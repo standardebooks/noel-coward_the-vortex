@@ -32,7 +32,6 @@ section[epub|type~="dedication"] > *{
 
 section[epub|type~="dedication"] > p{
 	font-variant: small-caps;
-	line-height: 1.5;
 }
 
 section[epub|type~="dedication"] b{
